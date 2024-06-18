@@ -2,3 +2,4 @@ venv
 build
 dist
 lime_stability.egg-info
+.DS_Store
